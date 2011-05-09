@@ -1,0 +1,6 @@
+---
+layout: post
+title: Reboot
+---
+
+I've moved JohnWulff.com from Typo to a simple Jekyll powered site hosted on GitHub.  You can find the source at "https://github.com/jwulff/jwulff.github.com":https://github.com/jwulff/jwulff.github.com.
