@@ -152,6 +152,12 @@ ul.posts {
 
 }
 
+  #post span.date {
+    color: #aaa;
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+  }
+
   /* standard */
 
   #post pre {
