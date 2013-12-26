@@ -5,7 +5,7 @@ title: Christmas Dinner 2013
 
 ![Dot's Pot Pies](/images/2013-12-26-Christmas-Dinner/dots-pot-pies.jpg)
 
-We hosted Christmas Dinner 2013 at our house. Courtney, Mark, Bill, Betty, 
+Courtney, Buster, and I hosted Christmas Dinner 2013 at our house. Mark, Bill, Betty, 
 Megan, and Michael came over.
 
 ## The Menu
