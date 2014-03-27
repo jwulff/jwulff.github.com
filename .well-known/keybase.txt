@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/jwulff
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://johnwulff.com
+  * I am jwulff (https://keybase.io/jwulff) on keybase.
+  * I have a public key with fingerprint 59E2 20D4 2836 BD82 A7CD  544A 96F7 E862 AFC7 97BF
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "59e220d42836bd82a7cd544a96f7e862afc797bf",
+            "host": "keybase.io",
+            "key_id": "96F7E862AFC797BF",
+            "uid": "d280bf7903acd95207f3a7c114f47f00",
+            "username": "jwulff"
+        },
+        "service": {
+            "hostname": "johnwulff.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395938408,
+    "expire_in": 157680000,
+    "prev": "f41f84c7d75da9f22a790bf7291a2c2f703d0aa672f78131a8d6b7a0b8ebdcf4",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMTYrxyyVUdh80XG0wc+JDEEm4RkVCsl5adUKllVK2Wngqm0zLz01KKC
+osy8EiUrJVPLVCMjgxQTIwtjs6QUC6NE8+QUUxOTREuzNPNUCzOjxLRkc0vzpDQl
+HaWM/GKQDqAxSYnFqXqZ+UAxICc+MwUoamnmZu4KVO/o5gxU7+QGlCsFS6QYWRgk
+pZlbGhgnJqdYmhoZmKcZAy0xNDRJMzFPMzAAKSxOLcpLzE0Fqs4qL81JS1Oq1VEC
+ipVlJqeCXAyyGCafn5EHVqKXnJ8L1FpQlF+Sn5yfA5TKKCkpsALpLKksACktT02K
+hxoSn5SZlwL0NlBDWWpRcWZ+npKVIVBlckkmyFRDY0tTS2MLEwMLHaXUioLMotT4
+TJAKU3MzCwMgAFmTWgY0Ms3EMM3CJNk8xdw0JdEyzQgYWpYgzxlZGiYaJRulmRsY
+pxgkJpqZA5kWhsaGiRYpZknmiQZJFqlJKclpJkogbxXm5StZmQCdmZgONLI4Mz0v
+saS0KFWptpNJhoWBkYmBjZUJFHEMXJwCsOi80cP/v0ZNbMqKLxXsU1l73u979jfF
+N2paoNjx14UXdpt9f6XIsLbguvuEUy0KC6VPf639lfQ5RvJy9rUj+X9Mk22at9o8
+NI3uk1qRyakn8vSlXlPU4c/9x/XZjML6euprek/vltu5j6fr04lf28683HFk/738
+5wuTUvqvJ36u1XVZ+epNeH/oXbF0JcuZlq72H6/pB5TEPN041bTfMChEYSuLdrBa
+ndqznCDnlaklUw1eHzywtv/TiiufWB5vX3qe/Z3T1KdyVk8axeYmMB66n/v2jNXp
++yKOsr+XL/G7EWpaa3947f6a3QvfNLj+eH20VzzzRXr4k7zojI/X2/eEvVpyTWNi
+i/vi39Nnf1ohVLC2Majb5ua8pb8n98y2231C8YLbnO2RMWEyy2+9D7lROO1ii5pw
+SYq0zrsNTLmbdyvIHHGffPWLubjjuV3s1feKV7dM6D36KjaifuqZXoGdZTIiQTMD
+nC4apjw58XjhzHv2PYV7tk/dKC+U+dJ30Y/NM8U77AN+KIgcvrmqMveuJ7u5q21B
+kyn7AYvyJwyHsgInMyanTC6f+U3JIVYnKm8h4zPB410PvmXszr4iVsa7LGH1ZIGT
+25py2LWd4xiYVW75vDv5+d63Ha+XBW7JldgpVfFUwE+OKY/r9e8jt3fWX760+Vnf
+dxaeiz8Uit7ZPg3zWHdF+ljvn/VbeEQYVR8ac0iavORbsp6/4GeNr72gcycA
+=ycde
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jwulff
+
+==================================================================
