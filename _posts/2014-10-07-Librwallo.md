@@ -17,10 +17,12 @@ Any display that the Raspberry Pi can drive will work but I recommend something 
 
 Step 2: Setup Raspberry Pi
 --------------------------
-Prepare the SD card for the Raspberry Pi and boot it up following the [quick start guide](http://www.raspberrypi.org/quick-start-guide).
+Prepare the SD card for the Raspberry Pi and boot it up following the [quick start guide](http://www.raspberrypi.org/quick-start-guide). Configure networking and turn on SSH.
 
 Step 3: Kiosk Browser Auto-Launch
 ---------------------------
+
+SSH in and do the following.
 
 ### Disable Sleep
 To prevent the Raspberry Pi from going to sleep:
