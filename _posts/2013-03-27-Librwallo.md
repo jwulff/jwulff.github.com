@@ -19,11 +19,7 @@ Step 2: Setup Raspberry Pi
 --------------------------
 Prepare the SD card for the Raspberry Pi and boot it up following the [quick start guide](http://www.raspberrypi.org/quick-start-guide).
 
-Step 3: Networking
-------------------
-The Raspberry Pi DHCP
-
-Step 4: Browser Auto-Launch
+Step 3: Kiosk Browser Auto-Launch
 ---------------------------
 
 ### Disable Sleep
@@ -52,5 +48,4 @@ Install Chromium
 
 Configure Chromium to launch at boot in kiosk mode. Replace `http://www.nytimes.com` with what you'd really like to see.
 
-    sudo sh -c 'echo "@chromium --kiosk http://www.nytimes.com --incognito" \ 
-    >> /etc/xdg/lxsession/LXDE/autostart'
+    sudo sh -c "echo '@chromium --kiosk http://www.nytimes.com --incognito' >> /etc/xdg/lxsession/LXDE/autostart"
